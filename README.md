@@ -1,8 +1,8 @@
 <div align="center">
 
-![Ahsan QaZi — AI/ML Engineer](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f3b5f,100:00d4ff&text=AHSAN%20QAZI&fontColor=e6f7ff&fontSize=56&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20IZAQ&descAlignY=59&animation=fadeIn)
+[![Ahsan QaZi — Machine Learning, Quantitative Finance, and Applied AI](./assets/izaq-quant-hero.gif)](https://github.com/IZAQ18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=4FD1FF&center=true&vCenter=true&width=820&lines=Event-driven+equity+research+pipelines;Multi-LLM+decision+and+evaluation+systems;Local-first+Windows+%2B+Android+automation;Evidence+over+assumptions.+Systems+over+demos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=8B5E34&center=true&vCenter=true&width=820&lines=Quantitative+finance+%2B+market+intelligence;Event-driven+equity+research+pipelines;Multi-LLM+decision+and+evaluation+systems;Local-first+Windows+%2B+Android+automation)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-maqbool-ahmad-6016a1367)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahsan_qazi_)
@@ -90,6 +90,7 @@ flowchart LR
 | Project | What it proves | Stack |
 |---|---|---|
 | [**Oracruit**](https://github.com/IZAQ18/Oracruit) | Real-time AI mock interviews with validated, structured scoring | Next.js · React · TypeScript · Firebase · Gemini |
+| **4UP by IZAQ** *(private)* | Sends one verbatim workload to Claude, ChatGPT, Gemini, and DeepSeek, then captures all four responses in a resilient side-by-side console | Chrome MV3 · JavaScript · DOM orchestration |
 | **JARVIS NEXUS by IZAQ** *(private)* | Natural-language Windows automation across two PCs and Android, with local-model routing and approval-gated power controls | Node.js · PowerShell · Ollama · Android |
 | **EvidenceDesk** *(private)* | Evidence-centered research workflows spanning event detection, filings, news, and review | Python · PostgreSQL · LLM orchestration |
 | **Catalyst pipeline** *(private)* | Matches intraday spike/crash events to the news catalyst using deterministic rules before model judgment | Python · market data · robust statistics |
