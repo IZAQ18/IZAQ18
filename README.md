@@ -1,159 +1,131 @@
 <div align="center">
 
-# Ahsan QaZi
+![Ahsan QaZi — AI/ML Engineer](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f3b5f,100:00d4ff&text=AHSAN%20QAZI&fontColor=e6f7ff&fontSize=56&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20IZAQ&descAlignY=59&animation=fadeIn)
 
-### AI/ML Engineer
-
-**I build event-driven equity research pipelines and multi-LLM systems.**
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=4FD1FF&center=true&vCenter=true&width=820&lines=Event-driven+equity+research+pipelines;Multi-LLM+decision+and+evaluation+systems;Local-first+Windows+%2B+Android+automation;Evidence+over+assumptions.+Systems+over+demos.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-maqbool-ahmad-6016a1367)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahsan_qazi_)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmaqboolahmad1811@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=IZAQ18&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/IZAQ18)
 
 </div>
 
-<br>
+## Engineering signal
 
-## 🎯 What I work on
-
-Most of my work sits at one specific seam: **a stock moves sharply, and something caused it.**
-
-Turning that into data means scraping minute bars, detecting the move statistically, finding the filing or news article responsible, and proving the link is causal rather than coincidental — at scale, with every row accounted for.
-
-```mermaid
-flowchart LR
-    A[Polygon<br/>5-min bars] --> B[Spike / crash<br/>detection]
-    B --> C[Causal news<br/>matching]
-    D[SEC EDGAR<br/>filings] --> E[Feature<br/>extraction]
-    C --> F[(PostgreSQL)]
-    E --> F
-    F --> G[Labeled<br/>event dataset]
-
-    style A fill:#1f6feb,stroke:#58a6ff,color:#fff
-    style D fill:#1f6feb,stroke:#58a6ff,color:#fff
-    style B fill:#238636,stroke:#3fb950,color:#fff
-    style C fill:#238636,stroke:#3fb950,color:#fff
-    style E fill:#238636,stroke:#3fb950,color:#fff
-    style F fill:#8957e5,stroke:#a371f7,color:#fff
-    style G fill:#bb8009,stroke:#d29922,color:#fff
-```
+I build systems that convert noisy events into traceable decisions. My work joins quantitative research, causal evidence retrieval, multi-model reasoning, and local-first automation—with explicit statuses, measurable gates, and a human approval layer where risk demands it.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 📈 Market microstructure
+### Market intelligence
 
-Robust modified z-score detection (median/MAD) over 5-min bars across ~100 tickers, with a dual statistical **and** economic gate so thresholds stay defensible.
-
-</td>
-<td width="33%" valign="top">
-
-### 📄 Filing intelligence
-
-SEC EDGAR filings parsed into per-filing feature rows — filing-native extraction, XBRL, and source cross-validation against a news lookback window.
+Intraday event detection, robust statistics, SEC filing intelligence, causal-news matching, and PostgreSQL-backed evidence pipelines.
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Multi-LLM systems
+### Multi-LLM engineering
 
-A three-seat LLM council that labels financial news against a versioned rubric, with an explicit decision layer for when the seats disagree.
+Independent model seats, rubric-driven labels, structured outputs, disagreement handling, validation, and human-review exports.
+
+</td>
+<td width="33%" valign="top">
+
+### Private automation
+
+Local AI routing, Windows orchestration, Android control, voice interaction, permission gates, and cross-device routines.
 
 </td>
 </tr>
 </table>
 
-<br>
-
-## 🛠️ Tech stack
+## Languages, frameworks & tools
 
 <div align="center">
 
-**Languages**
+[![Skill icons](https://skillicons.dev/icons?i=python,ts,js,powershell,nodejs,nextjs,react,tailwind,postgres,firebase,androidstudio,git,github,cloudflare,vscode&perline=8&theme=dark)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Data & ML**
-
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**AI / LLM**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Web**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-
-**Tools & APIs**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Polygon.io](https://img.shields.io/badge/Polygon.io-5D5FEF?style=for-the-badge&logoColor=white)
-![SEC EDGAR](https://img.shields.io/badge/SEC%20EDGAR-1A3D6D?style=for-the-badge&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome%20MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-</div>
-
-<br>
-
-## ⭐ Featured
-
-<div align="center">
-
-### [Oracruit](https://github.com/IZAQ18/Oracruit) — Smart Prep for Smart Careers
-
-</div>
-
-An AI-powered mock interview platform. Pick a role, seniority, and tech stack; it generates a tailored question set, runs the interview as a **real-time voice conversation**, then grades the transcript under a Zod schema so feedback comes back as validated structured scores instead of free-form prose.
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-local_AI-111111?style=flat-square&logo=ollama&logoColor=white)
+![SEC EDGAR](https://img.shields.io/badge/SEC_EDGAR-filing_intelligence-1A3D6D?style=flat-square)
+![Polygon.io](https://img.shields.io/badge/Polygon.io-market_data-5D5FEF?style=flat-square)
 
 </div>
 
-> My quantitative pipeline work — spike/crash detection, causal news matching, SEC feature extraction, and the multi-LLM labeling council — currently lives in private repositories. Happy to walk through the architecture and code on request.
+## System architecture
 
-<br>
+```mermaid
+flowchart LR
+    A[Market + filing data] --> B[Deterministic detection]
+    B --> C[Evidence retrieval]
+    C --> D[Multi-LLM council]
+    D --> E[Validated decision]
+    E --> F[(PostgreSQL)]
+    G[Local AI models] --> H[JARVIS action router]
+    H --> I[Windows PCs]
+    H --> J[Android control]
 
-## 🧭 How I build
+    style A fill:#0f3b5f,stroke:#4fd1ff,color:#fff
+    style B fill:#0f3b5f,stroke:#4fd1ff,color:#fff
+    style C fill:#0f3b5f,stroke:#4fd1ff,color:#fff
+    style D fill:#3b2a68,stroke:#a78bfa,color:#fff
+    style E fill:#14532d,stroke:#4ade80,color:#fff
+    style F fill:#14532d,stroke:#4ade80,color:#fff
+    style G fill:#3b2a68,stroke:#a78bfa,color:#fff
+    style H fill:#7c2d12,stroke:#fb923c,color:#fff
+    style I fill:#0f3b5f,stroke:#4fd1ff,color:#fff
+    style J fill:#0f3b5f,stroke:#4fd1ff,color:#fff
+```
 
-|  | Principle |
-|---|---|
-| 📋 | **Statuses over silence.** Every unmatched row gets an explicit status and reason. Nothing is dropped, nothing is forced into a match it doesn't deserve. |
-| ⚙️ | **Deterministic rules over LLM judgment** wherever a rule can do the job. Models handle the residual, and their disagreement is itself data. |
-| 🎛️ | **Tunables in one place.** Every threshold lives in a single config, never inline. |
-| 📐 | **Robust statistics by default.** Median and MAD over mean and σ — because one outlier shouldn't mask the next. |
-| 📝 | **Decisions get written down** as they're made, not reconstructed afterward. |
+## Flagship builds
 
-<br>
+| Project | What it proves | Stack |
+|---|---|---|
+| [**Oracruit**](https://github.com/IZAQ18/Oracruit) | Real-time AI mock interviews with validated, structured scoring | Next.js · React · TypeScript · Firebase · Gemini |
+| **JARVIS NEXUS by IZAQ** *(private)* | Natural-language Windows automation across two PCs and Android, with local-model routing and approval-gated power controls | Node.js · PowerShell · Ollama · Android |
+| **EvidenceDesk** *(private)* | Evidence-centered research workflows spanning event detection, filings, news, and review | Python · PostgreSQL · LLM orchestration |
+| **Catalyst pipeline** *(private)* | Matches intraday spike/crash events to the news catalyst using deterministic rules before model judgment | Python · market data · robust statistics |
+| **Council labeler** *(private)* | Three independent LLM seats label financial news against a versioned rubric and expose disagreement | Python · multi-LLM · structured evaluation |
+
+## GitHub activity
 
 <div align="center">
 
-### Let's talk
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IZAQ18&theme=github_dark)
 
-If you're working on market data, event detection, or LLM evaluation systems — I'd like to hear about it.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IZAQ18&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="Ahsan's GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=IZAQ18&theme=github-dark-blue&hide_border=true" alt="Ahsan's contribution streak" />
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-maqbool-ahmad-6016a1367)
+![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IZAQ18&bg_color=0d1117&color=58a6ff&line=22d3ee&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+> Private work can count toward the contribution calendar without exposing its source or repository contents. I keep the graph honest: meaningful commits, reviews, issues, and shipped systems—never backdated or empty activity.
+
+## How I build
+
+| Principle | In practice |
+|---|---|
+| **Statuses over silence** | Every unmatched row receives a status and reason. Nothing disappears. |
+| **Rules before model judgment** | Deterministic logic handles what can be proven; models handle the residual. |
+| **Disagreement is data** | Model conflict is preserved, measured, and routed for review. |
+| **Tunables live in one place** | Thresholds and policies stay versioned and auditable. |
+| **Risk earns friction** | Sensitive automation requires explicit human approval. |
+
+<div align="center">
+
+### Build systems that can explain themselves.
+
+If you work on market intelligence, AI evaluation, or private automation, let's connect.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-maqbool-ahmad-6016a1367)
 
 </div>
