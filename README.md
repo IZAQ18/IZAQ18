@@ -51,7 +51,7 @@ Local model routing, Windows and Android orchestration, durable automation, voic
 | System | Engineering focus | What it demonstrates |
 |---|---|---|
 | [**Oracruit**](https://github.com/IZAQ18/Oracruit) | AI interview intelligence | Real-time mock interviews with structured, validated scoring and a production web experience. |
-| [**EvidenceDesk**]([https://github.com/IZAQ18/Oracruit](https://evidencedesk-e2zk.onrender.com/) · private | Evidence-centered market research | Connects event detection, SEC filings, causal news, model review, and traceable research outputs. |
+| [**EvidenceDesk**](https://evidencedesk-e2zk.onrender.com/) · private | Evidence-centered market research | Connects event detection, SEC filings, causal news, model review, and traceable research outputs. |
 | **4UP by IZAQ** · private | Multi-model operations | Sends one unchanged workload to four independent model seats and captures each response in a resilient comparison console. |
 | **JARVIS NEXUS by IZAQ** · private | Local-first intelligence mesh | Coordinates local Qwen models, two Windows systems, and Android through authenticated routines and cross-device execution. |
 | **Catalyst pipeline** · private | Quantitative event attribution | Matches intraday spike and crash events to candidate catalysts with deterministic rules before model judgment. |
